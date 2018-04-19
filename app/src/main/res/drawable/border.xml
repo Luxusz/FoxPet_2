@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape  android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--//Controla los bordes de los Textview de la vista "Editar Perfil mascota"-->
+    <stroke android:width="2dp" android:color="#3390FF" ></stroke>
+</shape>

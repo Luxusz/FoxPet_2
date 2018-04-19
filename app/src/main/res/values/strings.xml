@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FoxPet</string>
+    <string name="app_nombremascota">Nombre de Mascota</string>
+    <string name="app_fnac">Fecha de Nacimiento</string>
+    <string name="app_edadmasc">Edad Mascota</string>
+    <string name="app_especie">Especie</string>
+    <string name="app_raza">Raza</string>
+    <string name="app_estadoreproduc">Estado Reproductivo</string>
+    <string name="title_activity_vacunas_agenda">VacunasAgenda</string>
+</resources>
